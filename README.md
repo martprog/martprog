@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-### I´m a Javascript developer and Mate enthusiast
+### I'm a Javascript developer and Mate enthusiast
 
 
-- 🔭 I'm currently working on my last bootcamp project(SPICED Academy)
+- 🔭 I  currently looking for a job as a Junior Software Engineer
 - 🌱 I'm currently learning Typescript
 - 👯 I'm looking for a job as a Fullstack engineer
 - 📫 How to reach me: 
